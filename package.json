@@ -1,0 +1,12 @@
+{
+  "name": "yarn-duplicates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:klis87/yarn-duplicates.git",
+  "author": "klis87 <klisiczynski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-datepicker": "1.0.4",
+    "react-popper": "0.7.4"
+  }
+}
